@@ -1,0 +1,14 @@
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\HelloXamarin.deps.json
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\HelloXamarin.dll
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\ref\HelloXamarin.dll
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\netstandard2.0\HelloXamarin.pdb
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.csprojAssemblyReference.cache
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.AssemblyInfoInputs.cache
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.AssemblyInfo.cs
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.csproj.CoreCompileInputs.cache
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.dll
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\ref\HelloXamarin.dll
+D:\Perkuliahan\4\PBKK\Tugas\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\netstandard2.0\HelloXamarin.pdb
