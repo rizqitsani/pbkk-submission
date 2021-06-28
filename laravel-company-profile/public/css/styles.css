@@ -1,0 +1,215 @@
+@import "https://fonts.googleapis.com/css?family=Lato:400,700, 900";
+
+/* Global */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.main-container {
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Header */
+#header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #eee;
+    padding: 0px 20px;
+    min-height: 100px;
+}
+
+#header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    background: #eee;
+}
+
+#nav-bar {
+    margin: auto 0;
+}
+
+#nav-bar ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+#nav-bar li {
+    margin: 0px 15px;
+}
+
+#nav-bar li a {
+    color: #298eea;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Jumbotron */
+#jumbotron {
+    background: url("https://www.niagahoster.co.id/assets/images/2018/hosting-terbaik/hosting-terbaik.png")
+        0 100px / cover no-repeat;
+    height: 100vh;
+    color: #fff;
+}
+
+.jumbotron-text {
+    width: 50%;
+    padding-top: 350px;
+}
+
+.jumbotron-text h1 {
+    font-size: 56px;
+}
+
+.jumbotron-text p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+/* Newsletter */
+#newsletter {
+    color: #ffffff;
+    background: #298eea;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+#newsletter-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#newsletter input[type="email"] {
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+}
+
+/* Feature */
+#feature,
+#pricing {
+    padding: 50px 0px;
+    color: #4d5872;
+}
+
+#feature h1,
+#support h1 {
+    font-size: 38px;
+    margin-bottom: 10px;
+}
+
+#feature p,
+#support p {
+    margin-bottom: 30px;
+}
+
+#feature .feature-container,
+#pricing .pricing-list-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.feature-list h3 {
+    margin-bottom: 10px;
+}
+
+.feature-list li {
+    margin: 5px 0px 5px 15px;
+}
+
+/* Support */
+#support {
+    color: #4d5872;
+    margin-bottom: 50px;
+}
+
+#support .iframe-container {
+    overflow: hidden;
+    padding-top: 56.25%; /* 16:9*/
+    position: relative;
+}
+
+#support .iframe-container iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -999;
+}
+
+/* Pricing */
+#pricing h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#pricing p {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.pricing-list-container .pricing-list {
+    border: 1px solid #eee;
+    border-radius: 10px;
+}
+
+.pricing-list .pricing-list-title,
+.pricing-list .pricing-list-price {
+    font-size: 24px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 25px 0px;
+    border-bottom: 1px solid #eee;
+}
+
+.pricing-list .pricing-list-price {
+    font-size: 30px;
+    padding: 30px 30px;
+}
+
+.pricing-list .pricing-list-price .small {
+    font-size: 15px;
+}
+
+.pricing-list .pricing-list-detail {
+    font-size: 16px;
+    padding: 20px 30px;
+}
+
+.pricing-list .pricing-list-detail li {
+    margin: 10px 0px;
+}
+
+/* Footer */
+footer {
+    padding: 20px;
+    color: #ffffff;
+    background-color: #298eea;
+    text-align: center;
+}
